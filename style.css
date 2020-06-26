@@ -6,3 +6,8 @@ body {
 a {
     font-family: 'Merriweather', serif !important;
 }
+
+#profile {
+    max-width: 300px;
+    max-height: 300px;
+}
